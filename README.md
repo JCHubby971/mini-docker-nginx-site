@@ -1,6 +1,5 @@
 # 📄 **README.md — Mini Site Docker + Nginx**
 
-```markdown
 # Mini Site Web avec Docker, Nginx et Docker Compose
 
 Ce projet est un site web statique (HTML/CSS/JS) servi par un conteneur **Nginx**.  
@@ -74,6 +73,4 @@ Ce mini-projet fait partie de mon parcours d’apprentissage DevOps :
 - comprendre les volumes
 - piloter un service avec Docker Compose
 - préparer le terrain pour un pipeline CI/CD
-```
-
 ---
